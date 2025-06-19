@@ -1,1 +1,1 @@
-# Corticotroph-Cell-Mode
+# Corticotroph-Cell-Model
